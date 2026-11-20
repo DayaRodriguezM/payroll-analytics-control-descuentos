@@ -73,7 +73,7 @@ El proyecto demuestra cómo integrar conocimiento del negocio, automatización y
 
 ![Resumen Payroll Analytics](images/Resumen.png)
 
-[**Explorar Payroll Analytics en Tableau Public**](https://public.tableau.com:9443/views/PayrollAnalyticsControldedescuentosysaldosdenmina/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**Explorar Payroll Analytics en Tableau Public**](https://public.tableau.com/views/PayrollAnalyticsControldedescuentosysaldosdenmina/Dashboard1?utm_source=chatgpt.com)
 
 El dashboard presenta indicadores de casos detectados, distribución de acciones sugeridas y detalles de revisión, utilizando información preparada para su visualización pública.
 
