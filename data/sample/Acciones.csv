@@ -1,0 +1,557 @@
+﻿ID_Ficticio;Tipo de acción;Acciones;Detalle_Descuentos
+ID_10010;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_10018;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_10018;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_1034;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_1053;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_1080;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_11126;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_11126;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_11126;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_11328;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_1135;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_1135;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_1135;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_11523;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_11523;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_11715;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_11715;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_11964;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_12258;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_12258;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_12258;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_1226;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_1230;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1230;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1274;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1274;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_13032;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_13061;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_1347;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1347;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_13553;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1363;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_13669;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_13669;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1368;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1368;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1368;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1372;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_1372;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_1377;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_1377;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_13798;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-3213
+ID_13959;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_13959;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_13959;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_13968;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213
+ID_1416;Ajustar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_1416;Revisar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_1416;Traspasar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_14174;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_14927;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_14927;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_15058;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_15058;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_15141;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_15141;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_15141;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_15338;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_15376;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_15376;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_15376;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_15462;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_15462;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_15491;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_15491;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_15491;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_15666;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_15666;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1570;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_1570;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_1570;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_1591;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1591;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1591;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_160;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_160;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_16043;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Oblig. IT-14 | Eliminar: IT-15
+ID_16043;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Oblig. IT-14 | Eliminar: IT-15
+ID_162;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_162;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_162;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_16497;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_16497;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_165;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_165;Revisar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_165;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_16726;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_16726;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_16726;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_16783;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_16783;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_16783;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_16789;Ajustar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_16789;Revisar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_16789;Traspasar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_16837;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_16837;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_1715;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1715;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1715;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_17267;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_17325;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_17325;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_177;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_177;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_177;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_17847;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_17847;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_17873;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-14 | Eliminar: IT-15
+ID_17873;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-14 | Eliminar: IT-15
+ID_18027;Ajustar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_18027;Compensar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_18027;Revisar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_18027;Traspasar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_18126;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_18126;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_18313;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_18313;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_18313;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_18805;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_18805;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_18805;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_18829;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_18829;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_18829;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_18944;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_18944;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_19136;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_19141;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_19141;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_19141;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_19225;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_19241;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_19241;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_19241;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_19536;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_19536;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_1965;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1965;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_1975;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_1975;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_19969;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_20029;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_20029;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_20141;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_20141;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_20544;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_20544;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_20554;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_20722;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_20722;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_2106;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2106;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2164;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2164;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_22060;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_22060;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_22129;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_22164;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_22164;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_22258;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_22258;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_22258;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-14 | Eliminar: IT-15
+ID_22473;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_22473;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_2254;Eliminar;Eliminar atrasos | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_2254;Traspasar;Eliminar atrasos | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_22543;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_22547;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_22609;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_22609;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_22609;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_22614;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_22614;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_22614;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_22812;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_22856;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_22856;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_22870;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_22897;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Oblig. IT-14 | Eliminar: IT-15
+ID_22897;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Oblig. IT-14 | Eliminar: IT-15
+ID_23156;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_23156;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2333;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_23393;Ajustar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23393;Compensar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23393;Revisar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23393;Traspasar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23397;Revisar;Eliminar o traspasar descuentos;
+ID_23490;Ajustar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23490;Compensar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23490;Revisar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23490;Traspasar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_23745;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_23745;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2385;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2385;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_24138;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Oblig. IT-14 | Eliminar: IT-15
+ID_24138;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Oblig. IT-14 | Eliminar: IT-15
+ID_24246;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_24246;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_24246;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_24305;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_2441;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2441;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2441;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_24420;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_24520;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_24520;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_24673;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_24673;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_24846;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_24846;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_24984;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_25003;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_25003;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_25284;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_25320;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_25393;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_25393;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_25481;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_25481;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_25555;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_2558;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_2558;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_2558;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_2588;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2588;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_25964;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_25964;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_26090;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_26090;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_26210;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2652;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_2652;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_2652;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_27;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_27;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_27;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_2717;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2717;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2738;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2738;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_2738;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27510;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_27510;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_27510;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_27549;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-14 | Eliminar: IT-15
+ID_27549;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-14 | Eliminar: IT-15
+ID_27623;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27623;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27623;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27638;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_27638;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_27667;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27667;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27676;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27676;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27738;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27738;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27738;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27947;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_27947;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_28234;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_28271;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_28271;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_28271;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_28300;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_2831;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2831;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_28461;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_28461;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_28632;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_28835;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_28835;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_28904;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_2894;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_2895;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2895;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_2904;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_2904;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_2904;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_2906;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_2906;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_29111;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_29111;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_29111;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_29245;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_29245;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_29248;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_29248;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_29441;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_29684;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_29740;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_29740;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_30366;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_30366;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_30366;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_30773;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_30773;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_30773;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_3096;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_3096;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_3096;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_310;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_310;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3104;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_31221;Ajustar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_31221;Revisar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_31221;Traspasar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_31421;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_31421;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_31421;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_31558;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_31558;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_31565;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_31565;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_31754;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_31754;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_31827;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_31867;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_31867;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_31909;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_3215;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_32219;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_32360;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_32435;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-3213 | Eliminar: IT-15
+ID_32435;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-3213 | Eliminar: IT-15
+ID_32758;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_3291;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3291;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_32917;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_32917;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_32932;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_32932;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_32932;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_33054;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_33054;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_33134;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_33509;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_33509;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_33676;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_33676;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_33825;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_33930;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_33930;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_33930;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_3405;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3405;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3405;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_34240;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_34518;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_34518;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_34541;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_34559;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_34559;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_34559;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_34833;Eliminar;Cuando hay dias negativos, se debe eliminar absentismos;
+ID_35041;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_35041;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_35041;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_35185;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Oblig. IT-14
+ID_352;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-14
+ID_352;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-14
+ID_35305;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_35305;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_35392;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_35392;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_3542;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_35812;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_36086;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_3612;Ajustar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_3612;Revisar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_3612;Traspasar;Revisar descuentos | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_36190;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_36190;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_362;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_362;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_36211;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_36211;Revisar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_36211;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_36213;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_36506;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_36506;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_36580;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_36681;Eliminar;Eliminar atrasos | Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_36681;Revisar;Eliminar atrasos | Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_36714;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_36714;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_37159;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_37159;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_37292;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_37292;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_37292;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_37660;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_37660;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_37995;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_381;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_381;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_381;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_38106;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_38169;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_38169;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_38169;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_38253;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_38253;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_38303;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_38303;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_38303;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_3836;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3836;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_38420;Eliminar;Eliminar o traspasar descuentos;Eliminar: IT-15
+ID_38463;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_38463;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_3877;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3877;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_3877;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_39202;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_39202;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51 | Eliminar: IT-15
+ID_39373;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39373;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39595;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39595;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_398;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_398;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39879;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_39881;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39881;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39916;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_39916;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_40132;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_40132;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_40132;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_40172;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_402;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_402;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_402;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_40527;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_40657;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_4085;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_4085;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_4085;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_40862;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_40862;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4091;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_41084;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41084;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41084;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41334;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_41334;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_41369;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41369;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41369;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4154;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_4154;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_41651;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41651;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_41860;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_41860;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes;
+ID_42063;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_42063;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_42063;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4214;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4214;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4214;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_426;Ajustar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_426;Compensar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_426;Revisar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_426;Traspasar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4431;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4431;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4431;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4434;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_4434;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_4434;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_462;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_462;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_462;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_4787;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_4787;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_4787;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_4816;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_4950;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_4950;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_5238;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_5238;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_5238;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_532;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_532;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_572;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_593;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_593;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_5991;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_5991;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_5991;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_61;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_6190;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_6190;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51
+ID_6306;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_632;Revisar;Eliminar o traspasar descuentos;
+ID_672;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_672;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_672;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_7050;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7050;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7050;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7081;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7081;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7084;Ajustar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_7084;Compensar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_7084;Traspasar;Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_7091;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_7091;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_7104;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_7104;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_7104;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_7254;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_7254;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_7254;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_734;Compensar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_734;Eliminar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_734;Traspasar;Compensar /S02 con 2H43 | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_740;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0);
+ID_7455;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7455;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7455;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_7655;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_7655;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_7655;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14, Oblig. IT-3213 | Eliminar: IT-15
+ID_7682;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_792;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_792;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_847;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_848;Revisar;Revisar descuentos | Eliminar o traspasar descuentos;
+ID_882;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_882;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_8864;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_8864;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14
+ID_902;Ajustar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_902;Compensar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_902;Revisar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_902;Traspasar;Revisar descuentos | Compensar /S02 con 2H43 | Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes | Eliminar o traspasar descuentos;
+ID_9202;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_9202;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_9202;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_9245;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_9245;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_9245;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_9627;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14
+ID_973;Eliminar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_973;Revisar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_973;Traspasar;Revisar: /S02 con días = 0 y sin RI (la compensación con 2H43 requiere RI > 0) | Eliminar o traspasar descuentos;Traspasar próx. mes: Vol. IT-14 | Eliminar: IT-15
+ID_99;Ajustar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_99;Traspasar;Ajustar 1D51 del mes | Traspasar 1D51 a próximo mes;
+ID_9902;Eliminar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
+ID_9902;Traspasar;Eliminar o traspasar descuentos;Traspasar próx. mes: 1D51, Vol. IT-14 | Eliminar: IT-15
