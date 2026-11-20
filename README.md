@@ -1,69 +1,98 @@
-# Payroll Analytics | Control de descuentos y saldos de nómina
+# 📊 Payroll Analytics | Control de descuentos y saldos de nómina
 
 **Python · pandas · NumPy · Excel · Tableau**
 
-Proyecto aplicado a un proceso real de remuneraciones: automatización de la **identificación de escenarios, clasificación de casos y cálculo de saldos** para apoyar la revisión y el registro de ajustes de nómina.
+Proyecto aplicado al análisis de remuneraciones, enfocado en automatizar la identificación de escenarios, validación de descuentos y cálculo de saldos, fortaleciendo la calidad de los datos y la eficiencia del proceso.
 
-[**Explorar el dashboard interactivo en Tableau Public**](https://public.tableau.com:9443/views/PayrollAnalyticsControldedescuentosysaldosdenmina/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 🎯 Objetivo del proyecto
 
-<!-- Cuando se cargue la captura pública en images/, quitar los marcadores de comentario de la línea siguiente. -->
-<!-- ![Dashboard de Payroll Analytics en Tableau](images/tableau-dashboard.png) -->
+Optimizar la revisión de descuentos y saldos de nómina mediante una solución automatizada que permita identificar excepciones, aplicar reglas de negocio y generar información confiable para apoyar las decisiones antes del cierre de remuneraciones.
 
-## Resultados principales
+## 🔎 Problema de negocio
+
+La revisión manual de remuneraciones requiere aplicar múltiples filtros, clasificar escenarios y calcular saldos considerando distintos tipos de descuentos y límites aplicables.
+
+Este proceso demanda tiempo, aumenta la exposición a errores manuales y dificulta el seguimiento de los casos que necesitan intervención.
+
+**Preguntas clave:**
+
+- ¿Qué registros presentan condiciones que requieren revisión o ajuste?
+- ¿Qué acciones corresponden según las reglas de negocio definidas?
+- ¿Cómo reducir el tiempo de procesamiento manteniendo controles sobre los resultados?
+
+## 🛠️ Metodología y solución
+
+Se desarrolló una solución en Python siguiendo cuatro etapas:
+
+1. **Preparación de datos:** lectura del archivo, normalización de conceptos y validación de información.
+2. **Aplicación de reglas:** clasificación de descuentos, evaluación de límites y cálculo de saldos según los escenarios definidos.
+3. **Automatización:** identificación de excepciones y generación de un reporte con acciones sugeridas y saldos calculados.
+4. **Validación y visualización:** corroboración manual de una selección de casos y construcción de un dashboard interactivo en Tableau para el seguimiento de resultados.
+
+Las acciones generadas constituyen propuestas de revisión, ajuste o tratamiento y requieren corroboración antes de su ejecución.
+
+## 📈 Resultados e impacto
 
 | Indicador | Resultado |
 |---|---:|
-| Registros evaluados | **6.604** |
-| Casos con acción sugerida o revisión | **272 (4,1 %)** |
-| Casos sin acción sugerida | **6.332 (95,9 %)** |
-| Identificación y cálculo manual en Excel | **70 minutos** |
-| Carga y lectura del archivo en Python | **2 minutos** |
-| Procesamiento y generación del reporte en Python | **2 minutos** |
-| Tiempo total observado con Python | **4 minutos** |
-| Reducción de tiempo en las actividades comparadas | **94,3 % (66 minutos)** |
+| Registros analizados | 6.604 |
+| Casos con acción sugerida o revisión | 272 (4,1 %) |
+| Casos sin acción sugerida | 6.332 (95,9 %) |
+| Tiempo de identificación y cálculo manual en Excel | 70 minutos |
+| Tiempo total automatizado en Python | 2 minutos |
+| **Reducción del tiempo en las actividades comparadas** | **97,1 %** |
 
-**Alcance de la medición:** comparación de una revisión operativa. En Python se contabilizaron **2 minutos de carga y lectura del archivo** y **2 minutos de procesamiento y generación del reporte**, para un total observado de **4 minutos** desde la carga hasta disponer del reporte. La reducción no incluye la comprobación manual posterior ni el registro, eliminación o simulación de ajustes en el sistema. Se contrastó manualmente una selección de casos y los cálculos revisados coincidieron con las reglas esperadas.
+**Impacto operativo:** en la revisión medida, la automatización permitió reducir de 70 a 2 minutos la identificación, clasificación y cálculo de saldos, generando un reporte listo para su revisión y posterior registro.
 
-## El desafío
+La medición no incluye las verificaciones manuales posteriores ni la ejecución de ajustes en el sistema.
 
-La revisión de descuentos y saldos de nómina implicaba filtrar casos manualmente, identificar escenarios y calcular importes para su tratamiento. Era necesario aplicar criterios consistentes, distinguir descuentos sujetos al tope del **15 %** de conceptos obligatorios y detectar situaciones que requieren corroboración antes del cierre.
+## 💡 Principales hallazgos
 
-## Solución
+**1. Control focalizado de excepciones**
 
-1. **Reglas de negocio:** documentación de criterios y escenarios inicialmente revisados en Excel.
-2. **Automatización con Python:** normalización de campos, validaciones, clasificación de casos y cálculo de saldos a partir del archivo de nómina.
-3. **Salida operativa:** reporte con casos identificados y saldos calculados, listo para revisión y posterior registro.
-4. **Seguimiento en Tableau:** indicadores, distribución de acciones y detalle filtrable para explorar excepciones.
+De los 6.604 registros analizados, 272 presentaron al menos una acción sugerida o necesidad de revisión, permitiendo concentrar los controles en los casos relevantes.
 
-Las acciones sugeridas incluyen **traspasar, revisar, eliminar, ajustar y compensar**. Una alerta no implica necesariamente un error: **cada caso debe validarse antes de aplicar cambios**.
+**2. Múltiples acciones por registro**
 
-## Distribución de acciones
+Se identificaron 556 asociaciones entre casos y categorías de acción. Un mismo registro puede requerir más de una intervención, por lo que las categorías no representan personas únicas.
 
-| Acción | Combinaciones caso–acción |
-|---|---:|
-| Traspasar | 222 |
-| Revisar | 110 |
-| Eliminar | 96 |
-| Ajustar | 75 |
-| Compensar | 53 |
-| **Total** | **556** |
+**3. Eficiencia mediante automatización**
 
-Los **272 casos** son identificadores únicos con al menos una acción o revisión. Las **556 combinaciones** no representan 556 personas diferentes: un mismo caso puede requerir varias acciones.
+La aplicación automatizada de reglas de negocio redujo las tareas repetitivas de clasificación y cálculo, mientras que la revisión manual de una selección de resultados permitió corroborar las reglas evaluadas.
 
-## Visualización interactiva
+## ✅ Acciones y recomendaciones
 
-[**Ver Payroll Analytics en Tableau Public**](https://public.tableau.com:9443/views/PayrollAnalyticsControldedescuentosysaldosdenmina/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Priorizar** la revisión de los casos identificados con alertas o acciones sugeridas.
+- **Estandarizar** las validaciones para mantener criterios consistentes.
+- **Corroborar** los resultados antes de registrar traspasos, ajustes, eliminaciones o compensaciones.
+- **Monitorear** las excepciones mediante indicadores y visualizaciones que faciliten su seguimiento.
 
-La visualización pública se centra en **conteos, categorías y seguimiento de casos**, no en montos individuales de remuneraciones.
+El proyecto demuestra cómo integrar conocimiento del negocio, automatización y análisis de datos para fortalecer los controles operativos.
 
-## Próxima mejora
+## 📊 Dashboard interactivo | Tableau
 
-Ampliar la validación para una **segunda revisión de nómina**, cuando nuevas ausencias modifican la remuneración imponible (RI) y pueden cambiar los saldos calculados; incluye un escenario adicional asociado a `2H43`, `/S02` y `1D51`. **Esta regla aún no está incorporada a la versión descrita.**
+![Resumen Payroll Analytics](images/Resumen.png)
 
-## Privacidad y publicación
+[**Explorar Payroll Analytics en Tableau Public**](https://public.tableau.com:9443/views/PayrollAnalyticsControldedescuentosysaldosdenmina/Dashboard1)
 
-El proyecto se originó en una necesidad operativa real. Los materiales públicos deben contener únicamente **datos sintéticos o debidamente anonimizados y autorizados**, sin identificadores personales, información salarial individual ni archivos internos de SAP. Las cifras mostradas son agregadas.
+El dashboard presenta indicadores de casos detectados, distribución de acciones sugeridas y detalles de revisión, utilizando información preparada para su visualización pública.
+
+## 🔐 Privacidad de los datos
+
+El proyecto se basa en un caso de uso aplicado a procesos de remuneraciones. La documentación y los archivos compartidos públicamente deben excluir identificadores personales, información salarial confidencial y datos internos sensibles.
+
+Los ejemplos publicados deben utilizar datos sintéticos o adecuadamente anonimizados.
+
+## 🎓 Conclusión
+
+La combinación de experiencia funcional en remuneraciones y herramientas de análisis permitió transformar un procedimiento manual en un proceso automatizado y medible.
+
+El principal aprendizaje fue que la automatización aporta valor cuando las reglas de negocio están documentadas, los resultados son verificables y la información generada facilita decisiones operativas.
 
 ---
 
-**Autora:** Dayana Rodríguez · [GitHub](https://github.com/DayaRodriguezM)
+**Desarrollado por Dayana Rodríguez**
+
+Data Analytics | Business Intelligence | SQL | Python | Tableau | Data Quality
+
+[GitHub](https://github.com/DayaRodriguezM) · [Portafolio](https://dayarodriguezm.github.io/)
